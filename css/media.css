@@ -1,0 +1,130 @@
+
+
+
+
+@media(min-width:992px) and (max-width:1200px){
+.about-us-img{
+     margin-top: 80px;
+}
+}
+
+@media(min-width:768px) and (max-width:991.99px){
+/*======our gallery section starts here===========*/
+.Rokibul {
+    margin-top: 0;
+}
+/*======our gallery section ends here===========*/
+/*======team section starts here==========*/
+#our-team {
+    padding-bottom: 35px;
+}
+/*======team section ends here==========*/
+/*======class section starts here==========*/
+.day ul li {
+    margin-bottom: 20px;
+}
+.sponser {
+    padding-top: 25px;
+}
+
+.sponser-img {
+    margin: 0 1px;
+}
+#class {
+    padding-top: 65px;
+    padding-bottom: 25px;
+}
+/*======class section ends here==========*/
+}
+@media(min-width:576px) and (max-width:767.98px){
+/*======our gallery section starts here==========*/
+
+.Rokibul {
+    margin-top: 0;
+}
+/*======our gallery section ends hrere==========*/
+/*======our testimoial section starts here===============*/
+#our-team {
+	padding-bottom: 35px;
+}
+/*======our testimoial section ends here===============*/
+/*======class section starts here==========*/
+.day ul li {
+    margin-bottom: 20px;
+}
+.sponser {
+    padding-top: 25px;
+}
+.sponser-img {
+    margin: 0 1px;
+}
+#class {
+    padding-top: 65px;
+    padding-bottom: 25px;
+}
+/*======class section ends here==========*/
+/*======footer section starts here==========*/
+.create::after {
+    top: 515px
+}
+.footer-content h4 {
+    padding-bottom: 10px;
+    padding-top: 30px;
+}
+.get p {
+    padding-left:0;
+}
+.get-icon{
+    text-align: center;
+}
+/*=====footer section ends here===========*/
+}
+@media(max-width:575.98px){
+    .navbar-brand {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .banner-content p {
+        padding: 0;
+    }
+    /*======our team section starts here==========*/
+    #our-team {
+        padding-bottom: 35px;
+    }
+    /*======our team section ends here==========*/
+    /*======our gallery section starts here==========*/
+    .Rokibul {
+        margin-top: 0;
+    }
+    /*======our gallery section ends hrere==========*/
+    /*======class section starts here==========*/
+    .day ul li {
+        margin-bottom: 25px;
+    }
+    .sponser {
+        padding-top: 25px;
+    }
+    
+    .sponser-img {
+        margin: 0 1px;
+    }
+    #class {
+        padding-top: 65px;
+        padding-bottom: 25px;
+    }
+    /*======class section ends here==========*/
+    /*======footer section stars here==========*/
+    .footer-content h4 {
+        padding-bottom: 10px;
+        padding-top: 30px;
+    }
+    .get p {
+        padding-left:0;
+    }
+    .get-icon{
+        text-align: center;
+    }
+    /*=====footer section ends here===========*/
+
+
+}
